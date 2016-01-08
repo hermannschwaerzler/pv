@@ -84,6 +84,7 @@ INSTALLED_APPS = (
     'program',
     'nop',
     'tinymce',
+    'django_comments'
 )
 
 TINYMCE_JS_URL = '/static/js/tiny_mce/tiny_mce.js'
